@@ -16,4 +16,5 @@ Next Steps :-
 The next step would be to apply more advanced analysis, such as using R or Python and SQL to predict future sales trends.
 
 Screenshot :- 
-https://github.com/NamanTiwari-17/sales-data-analysis/blob/main/shanpshot%20of%20the%20Dashboard.png
+<img width="1853" height="769" alt="shanpshot of the Dashboard" src="https://github.com/user-attachments/assets/f747cee3-d18c-4380-914f-9fdb0a8d8876" />
+
